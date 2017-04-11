@@ -80,7 +80,7 @@ ruby src/translate.rb --file src/input.txt
 ```
 
 Example output.
-![](example-output.png)
+![](screenshots/example-output.png)
 
 ### Running Tests
 
