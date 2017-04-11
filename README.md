@@ -50,6 +50,11 @@ Create and use the Ruby version and gemset:
 rvm use ruby-2.4.0@coding_task --create
 ```
 
+Install Bundler:
+```bash
+gem install bundler
+```
+
 Install project dependencies:
 ```bash
 bundle install --binstubs
